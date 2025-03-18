@@ -1,2 +1,2 @@
 html css js
-python code and data 
+python code and python data 
